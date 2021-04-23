@@ -1,0 +1,12 @@
+{
+  "name": "com.batch8.main",
+  "version": "1.0.0",
+  "description": "Ujian_javascript",
+  "main": "draw.js",
+  "scripts": {
+    "start": "node draw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dilanap",
+  "license": "ISC"
+}
